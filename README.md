@@ -80,8 +80,8 @@ Example: sw4:1
 #### ACK Formats Supported
 ```
 sw3:1
-9999112512080001,sw4:0
-9999112512080001 = sw4:1
+(device ID),sw4:0
+(device ID) = sw4:1
 RESULT OK sw2:0
 ```
 
