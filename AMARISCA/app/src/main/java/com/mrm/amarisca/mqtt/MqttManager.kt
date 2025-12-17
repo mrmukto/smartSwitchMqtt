@@ -9,7 +9,7 @@ class MqttManager(
     private val onAck: (String) -> Unit
 ) {
 
-    private val serverURI = "tcp://66.29.151.40:1883"
+    private val serverURI = "URL"
     private val clientId = "SmartSwitch-${UUID.randomUUID()}"
 
     private val pubTopic = "SmartSwitch/SUB/$mqttGateway"
