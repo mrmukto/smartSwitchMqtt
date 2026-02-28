@@ -7,13 +7,13 @@ plugins {
 }
 
 android {
-    namespace = "com.mrm.amarisca"
+    namespace = "com.mr.mukto"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.mrm.amarisca"
+        applicationId = "com.mr.mukto"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

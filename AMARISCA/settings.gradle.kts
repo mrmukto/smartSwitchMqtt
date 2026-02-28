@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AMAR ISCA"
+rootProject.name = "ICCHA"
 include(":app")
  
